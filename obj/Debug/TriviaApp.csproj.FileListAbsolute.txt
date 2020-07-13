@@ -1,0 +1,7 @@
+C:\Users\pauli\source\repos\TriviaApp\TriviaApp\obj\Debug\TriviaApp.csprojAssemblyReference.cache
+C:\Users\pauli\source\repos\TriviaApp\TriviaApp\obj\Debug\TriviaApp.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\TriviaApp\TriviaApp\bin\Debug\TriviaApp.exe.config
+C:\Users\pauli\source\repos\TriviaApp\TriviaApp\bin\Debug\TriviaApp.exe
+C:\Users\pauli\source\repos\TriviaApp\TriviaApp\bin\Debug\TriviaApp.pdb
+C:\Users\pauli\source\repos\TriviaApp\TriviaApp\obj\Debug\TriviaApp.exe
+C:\Users\pauli\source\repos\TriviaApp\TriviaApp\obj\Debug\TriviaApp.pdb
